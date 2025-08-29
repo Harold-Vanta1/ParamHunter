@@ -1,0 +1,2 @@
+https://example.com/?id=1&cat=2
+https://httpbin.org/get?x=1
