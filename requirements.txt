@@ -1,0 +1,4 @@
+requests>=2.32.0,<3
+urllib3>=2.2.0,<3
+# Optional pretty output:
+rich>=13.7.0,<14
